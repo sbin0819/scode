@@ -1,4 +1,5 @@
 {
+  "name": "scode",
   "private": true,
   "scripts": {
     "build": "turbo build",
